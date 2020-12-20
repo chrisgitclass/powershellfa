@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=94dc676e-708a-4493-8114-394a592d5d8e;IngestionEndpoint=https://westus-0.in.applicationinsights.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "94dc676e-708a-4493-8114-394a592d5d8e",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=storageaccountrgpow876d;AccountKey=AxV2zIvHMv7Gni78yP3xzoKgQtaYfSWS4hl+iDKHqLiB7h3lVBdK3irXk92LytnbbAxTpSF0fSvuxDH3aCQxhw==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "fapowershellapia5fe",
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "WEBSITE_SITE_NAME": "fapowershellapi",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountrgpow876d;AccountKey=AxV2zIvHMv7Gni78yP3xzoKgQtaYfSWS4hl+iDKHqLiB7h3lVBdK3irXk92LytnbbAxTpSF0fSvuxDH3aCQxhw==;EndpointSuffix=core.windows.net"
+  }
+}
